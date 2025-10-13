@@ -1,0 +1,81 @@
+body{
+    background-color:rgba(0,0,0,0.863) ;
+}
+.c3{
+    display:inline-block;
+    text-align:left;
+    font-size:larger ;
+}
+#i1{
+    text-align: right;
+    padding-left: 1300px;
+}
+.c5{
+    background-image: url(https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/1-0-home/spectre-primavera/D-HP-PRIMAVERA.jpg/jcr:content/renditions/cq5dam.web.1920.webp);
+    width:1500px;
+    height:1000px;
+    text-align: center;
+    padding-top: 80px;
+    font-size: xx-large;
+    color:white;
+}
+#img1{
+   align-items: center; 
+   margin-right: 1500px;
+   padding-left: 700px;
+   color:white;
+image-resolution: 15px;
+}
+#i10{
+    background-color: white;
+}
+.c7{
+    font-weight:bolder ;
+    letter-spacing: 1.5px;
+    padding-top: 10px;
+    word-spacing: 5px;
+}
+.c8{
+    letter-spacing:1.5px;
+    word-spacing: 5px;
+    margin-left:785px;
+    font-weight: bolder;
+}
+.c9{
+    font-weight: bolder;
+    word-spacing:5px;
+}
+h1,p{
+    text-align: center;
+}
+#i100{
+    display: flex;
+}
+#i101{
+  margin-left: 20px;
+  align-items: center;
+  text-align: center;
+  border:1px solid white;
+  padding-top: 100px;
+  display: inline-block;
+}
+#i102{
+  margin-left: 40px;
+  align-items: center;
+  text-align: center;
+  border:1px solid white;
+  padding-top: 100px;
+  display: inline-block;
+}
+#i103{
+  margin-left: 40px;
+  align-items: center;
+  text-align: center;
+  border:1px solid white;
+  padding-top: 100px;
+  display: inline-block;
+}
+.f{
+    margin: 10px;
+    padding: 5px;
+}
