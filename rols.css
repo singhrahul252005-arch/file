@@ -29,23 +29,7 @@ image-resolution: 15px;
 #i10{
     background-color: white;
 }
-.c7{
-    font-weight:bolder ;
-    letter-spacing: 1.5px;
-    padding-top: 10px;
-    word-spacing: 5px;
-}
-.c8{
-    letter-spacing:1.5px;
-    word-spacing: 5px;
-    margin-left:785px;
-    font-weight: bolder;
-}
-.c9{
-    font-weight: bolder;
-    word-spacing:5px;
-}
-h1,p{
+h2,p{
     text-align: center;
 }
 #i100{
@@ -78,4 +62,5 @@ h1,p{
 .f{
     margin: 10px;
     padding: 5px;
+
 }
